@@ -14,7 +14,7 @@
 
 ### contact 💬  
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<span style="vertical-align:middle;">kyliexxo</span>  
+<span style="vertical-align:middle;">`kyliexxo`</span>  
 <a href="https://twitter.com/kyliexxo3"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
