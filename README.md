@@ -13,7 +13,7 @@
 ![Commits](https://img.shields.io/badge/Commits-94-brightgreen?style=for-the-badge)
 
 ### contact
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kyliexxo)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kyliexxo3)
 
 </div>
