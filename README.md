@@ -5,4 +5,6 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyliexxo&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=kyliexxo&style=for-the-badge&color=blueviolet)
+![Repos](https://img.shields.io/badge/Public%20Repos-0-lightgrey?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-94-brightgreen?style=for-the-badge)
