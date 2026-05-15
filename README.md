@@ -12,7 +12,7 @@
 ![Repos](https://img.shields.io/badge/Public%20Repos-0-lightgrey?style=for-the-badge)
 ![Commits](https://img.shields.io/badge/Commits-94-brightgreen?style=for-the-badge)
 
-### 💬 contact  
+### contact 💬  
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <span style="vertical-align:middle;">kyliexxo</span>  
 <a href="https://twitter.com/kyliexxo3"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
